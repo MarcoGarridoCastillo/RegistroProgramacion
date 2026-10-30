@@ -1,0 +1,10 @@
+# Archivos generados por .NET
+bin/
+obj/
+
+# Configuracion local del editor
+.vscode/
+
+# Archivos temporales
+*.user
+*.suo
